@@ -3,7 +3,7 @@
 ## About Me
 - 🌱 I'm currently learning new technologies and improving my skills.
 - 💼 Working on various projects to enhance my portfolio.
-- 📫 How to reach me: youremail@example.com
+- 📫 How to reach me: dema.6495@gmail.com
 
 ## Skills
 - Programming Languages: Python, JavaScript, Java
