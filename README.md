@@ -6,7 +6,7 @@
 - 📫 How to reach me: youremail@example.com
 
 ## Skills
-- Programming Languages: Python, JavaScript, C++
+- Programming Languages: Python, JavaScript, Java
 - Frameworks: React, Django, Flask
 - Tools: Git, Docker, VS Code
 
