@@ -1,4 +1,4 @@
-# Hello, I'm Dema6495 👋
+# Hello, I'm Daniel 👋
 
 ## About Me
 - 🌱 I'm currently learning new technologies and improving my skills.
@@ -16,8 +16,8 @@
 
 ## Hobbies
 - Coding
-- Reading
-- Traveling
+- Ia
+- Sport
 
 ## Social Media
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
