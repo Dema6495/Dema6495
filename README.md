@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm Dema6495 👋
 
-<!--
-**Dema6495/Dema6495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 I'm currently learning new technologies and improving my skills.
+- 💼 Working on various projects to enhance my portfolio.
+- 📫 How to reach me: youremail@example.com
 
-Here are some ideas to get you started:
+## Skills
+- Programming Languages: Python, JavaScript, C++
+- Frameworks: React, Django, Flask
+- Tools: Git, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Project 1](https://github.com/Dema6495/project1): Description of project 1.
+- [Project 2](https://github.com/Dema6495/project2): Description of project 2.
+
+## Hobbies
+- Coding
+- Reading
+- Traveling
+
+## Social Media
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
